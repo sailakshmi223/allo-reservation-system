@@ -41,9 +41,8 @@ prisma/
   schema.prisma
   migrations/
 public/
----
+```
 
----
 
 ## 🧠 Core Concept
 
