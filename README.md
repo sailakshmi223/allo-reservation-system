@@ -1,8 +1,3 @@
-Here’s your properly formatted **README.md** with clean structure, correct Markdown syntax, and code blocks only where needed (kept minimal and appropriate):
-
----
-
-````md
 # 📦 Allo Reservation System
 
 A full-stack inventory reservation system built with **Next.js (App Router)**, **Prisma**, **PostgreSQL (Neon)**, and **TypeScript**.  
@@ -46,7 +41,7 @@ prisma/
   schema.prisma
   migrations/
 public/
-````
+---
 
 ---
 
@@ -261,6 +256,5 @@ Computer Science (Business Analytics)
 * ✅ Frontend Connected
 * ✅ Ready for Deployment
 
-```
 
 
